@@ -424,10 +424,10 @@
 		<DetailDarkViewName>Détaillé (sombre)</DetailDarkViewName>
 		<DetailedWheelName>Détaillé + Roue</DetailedWheelName>
 		<NoVideoDetailsViewName>Détaillé sans vidéo</NoVideoDetailsViewName>
-		<Off_Logo>Éteint</Off_Logo>
-		<On_Logo>Allumé (bordures)</On_Logo>
-		<On_Logo2>Allumé (sans bordures noires)</On_Logo2>
-		<On_Logo3>Allumé</On_Logo3>
+		<Off_Logo>Désactivé</Off_Logo>
+		<On_Logo>Activé (bordures)</On_Logo>
+		<On_Logo2>Activé (sans bordures noires)</On_Logo2>
+		<On_Logo3>Activé</On_Logo3>
 		<VideoFullName>Vidéo en plein écran</VideoFullName>
 		<WallViewName>Papier Peint</WallViewName>
 		<WallpapersCarouselName>Papier Peint + Carrousel</WallpapersCarouselName>
@@ -468,8 +468,8 @@
 		<ninbuttons>Nintendo</ninbuttons>
 		<no>Non</no>
 		<none>Aucune</none>
-		<off_arrows>Éteint</off_arrows>
-		<on_arrows>Allumé</on_arrows>
+		<off_arrows>Désactivé</off_arrows>
+		<on_arrows>Activé</on_arrows>
 		<orange>Orange</orange>
 		<psxbuttons>PlayStation</psxbuttons>
 		<psxbuttons_color>PlayStation (en couleur)</psxbuttons_color>
